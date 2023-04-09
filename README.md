@@ -1,4 +1,4 @@
-## **Hello, I'm a beginner iOS-developer**
+## **Hello, I'm a iOS-developer**
  
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KonstantinShmondrik&hide=stars,issues&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
